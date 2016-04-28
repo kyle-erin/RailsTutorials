@@ -33,3 +33,6 @@ bower.json
 
 # Ignore pow environment settings
 .powenv
+*.generators
+readit/.idea/
+spblog/.idea/
